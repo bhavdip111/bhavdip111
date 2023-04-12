@@ -2,7 +2,7 @@
 <p align="center">I'm Bhavdip Pambhar, Fullstack developer from India.</p>
 
 - 🔭 I’m currently building team at **Infynno Solutions**
-- 👯 I’m looking to collaborate on **SaaS Development, Startup Product Development, Laravel & Tailwind Meetups**
+- 👯 I’m looking to collaborate on **SaaS Development, Startup Product Development**
 - 💬 Ask me about **Web and Mobile Development**
 - 📫 How to reach me: [bb.pambhar@gmail.com](mailto:bb.pambhar@gmail.com) via email
 - ⚡ Laracon India Volunteer & Admin at Laravel Ahmedabad 
@@ -14,37 +14,37 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/laravel.png" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/node.svg" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>Node.js
+      <br>NodeJs
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/react.png" width="48" height="48" alt="ReactJs" />
       </a>
-      <br>Reactjs
+      <br>ReactJs
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/typescript.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/mysql.svg" width="48" height="48" alt="MySql" />
       </a>
       <br>MySql
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/postgresql.png" width="48" height="48" alt="Postgresql" />
       </a>
@@ -52,37 +52,37 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/tailwind.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
       <br>Tailwind CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/saas-development.png" width="48" height="48" alt="SaaS" />
       </a>
       <br>SaaS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/api.png" width="48" height="48" alt="API" />
       </a>
       <br>API
     </td>
-   <td align="center" width="96">
+   <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/docker.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/github.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
-    <td align="center" width="96">
+    <td align="center" width="134">
       <a href="#bhavdip111-tech">
         <img src="./images/aws.png" width="48" height="48" alt="AWS" />
       </a>
