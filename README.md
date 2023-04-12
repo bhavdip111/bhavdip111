@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **SaaS Development, Startup Product Development, Laravel & Tailwind Meetups**
 - 💬 Ask me about **Web and Mobile Development**
 - 📫 How to reach me: [bb.pambhar@gmail.com](mailto:bb.pambhar@gmail.com) via email
-- ⚡ Fun fact: 
+- ⚡ Laracon India Volunteer & Admin at Laravel Ahmedabad 
 
 ---
 <h2 align="left" id="bhavdip111-tech">Favorite Tech & Stats</h2>
@@ -50,13 +50,6 @@
       </a>
       <br>Postgresql
     </td>
-    <td align="center" width="96">
-      <a href="#bhavdip111-tech">
-        <img src="./images/aws.png" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-   
   </tr>
   <tr>
     <td align="center" width="96">
@@ -88,6 +81,12 @@
         <img src="./images/github.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#bhavdip111-tech">
+        <img src="./images/aws.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
