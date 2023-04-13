@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 <p align="center">I'm Bhavdip Pambhar, Fullstack developer from India.</p>
 
-- 🔭 I’m currently building team at **Infynno Solutions**
+- 🔭 I’m currently building team at **[Infynno Solutions]** (https://github.com/infynno-solutions)
 - 👯 I’m looking to collaborate on **SaaS Development, Startup Product Development**
 - 💬 Ask me about **Web and Mobile Development**
 - 📫 How to reach me: [bb.pambhar@gmail.com](mailto:bb.pambhar@gmail.com) via email
